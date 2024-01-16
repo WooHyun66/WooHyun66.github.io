@@ -8,11 +8,13 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw2837435881_530071425/
 #EXTINF:-1 ,求索纪录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 #EXTINF:-1 ,凤凰中文
-http://210.210.155.37/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
+https://0472.org/hls/youzaiSB/fhzw.m3u8
 #EXTINF:-1 ,凤凰资讯
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+https://0472.org/hls/youzaiSB/fhzx.m3u8
 #EXTINF:-1 ,中天亚洲台
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
+http://livetv.skycf.eu.org/live.m3u8?c=3
+#EXTINF:-1 ,TVBS新闻
+http://livetv.skycf.eu.org/live.m3u8?c=5
 #EXTINF:-1 ,俄罗斯中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,朝鲜中央台
@@ -41,6 +43,8 @@ http://epg.112114.xyz/douyu/413573
 http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 ,中天亚洲台
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
 #EXTINF:-1 ,俄罗斯 First Music
 http://rtmp.one.by:1200
 #EXTINF:-1 ,俄罗斯 OR 音乐频道
