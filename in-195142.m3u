@@ -10,9 +10,9 @@ http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 ,求索纪录
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 ,凤凰中文
-https://tv.iill.top/jd/fhzw
+http://125.210.150.58:9090/live/hszx-fhzw-h264.m3u8
 #EXTINF:-1 ,凤凰资讯
-https://tv.iill.top/jd/fhzx
+http://125.210.150.58:9090/live/hszx-fhzx-h264.m3u8
 #EXTINF:-1 ,中天亚洲台
 http://livetv.skycf.eu.org/live.m3u8?c=3
 #EXTINF:-1 ,斗鱼音乐
