@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV2
-http://125.210.150.58:9090/live/hzgq-cctv2gq-h264.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 ,CCTV3
 http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 #EXTINF:-1 ,CCTV13
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+http://117.10.59.110:8888/newlive/live/hls/14/live.m3u8
 #EXTINF:-1 ,精品纪录
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 ,求索纪录
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 ,凤凰中文
-http://125.210.150.58:9090/live/hszx-fhzw-h264.m3u8
+https://tv.iill.top/jd/fhzw
 #EXTINF:-1 ,凤凰资讯
-http://125.210.150.58:9090/live/hszx-fhzx-h264.m3u8
+https://tv.iill.top/jd/fhzx
 #EXTINF:-1 ,中天亚洲台
 http://livetv.skycf.eu.org/live.m3u8?c=3
 #EXTINF:-1 ,斗鱼音乐
