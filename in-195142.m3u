@@ -1,14 +1,20 @@
 #EXTM3U
+#EXTINF:-1 ,小约翰可汗
+https://tv.iill.top/douyu/9738854
 #EXTINF:-1 ,CCTV2
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 ,CCTV3
 http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 ,CCTV4
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000485/index.m3u8?IAS
 #EXTINF:-1 ,CCTV13
 http://117.10.59.110:8888/newlive/live/hls/14/live.m3u8
 #EXTINF:-1 ,精品纪录
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 ,求索纪录
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 ,美食作家王刚
+https://tv.iill.top/douyu/8144937
 #EXTINF:-1 ,凤凰中文
 https://tv.iill.top/jd/fhzw
 #EXTINF:-1 ,凤凰资讯
@@ -33,14 +39,6 @@ http://epg.112114.xyz/douyu/252802
 http://epg.112114.xyz/douyu/36337
 #EXTINF:-1 ,斗鱼4K
 http://159.75.85.63:35455/douyu/9249162
-#EXTINF:-1 ,宇哥电影
-http://epg.112114.xyz/douyu/413573
-#EXTINF:-1 ,凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 ,中天亚洲台
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
 #EXTINF:-1 ,俄罗斯 First Music
 http://rtmp.one.by:1200
 #EXTINF:-1 ,俄罗斯 OR 音乐频道
