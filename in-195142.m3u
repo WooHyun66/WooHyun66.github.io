@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,小约翰可汗
-https://tv.iill.top/douyu/9738854
+http://live.iill.top/douyu.php?id=9738854
 #EXTINF:-1 ,CCTV2
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 ,CCTV3
@@ -15,12 +15,12 @@ http://117.10.59.110:8888/newlive/live/hls/14/live.m3u8
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 ,求索纪录
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 ,美食作家王刚
-https://tv.iill.top/douyu/8144937
+#EXTINF:-1 ,美食作家王刚V
+http://live.iill.top/douyu.php?id=8144937
 #EXTINF:-1 ,凤凰中文
-https://tv.iill.top/jd/fhzw
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
 #EXTINF:-1 ,凤凰资讯
-https://tv.iill.top/jd/fhzx
+http://116.162.6.191/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 #EXTINF:-1 ,中天亚洲台
 http://livetv.skycf.eu.org/live.m3u8?c=3
 #EXTINF:-1 ,斗鱼音乐
