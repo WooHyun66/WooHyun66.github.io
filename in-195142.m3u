@@ -6,7 +6,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 ,CCTV3
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMUNNEYLCPUtKY62j1Wp5u04wipypKUQ1TTuR2lXvBl5YpHqBJmlA19x22TD9bUOjk
 #EXTINF:-1 ,CCTV4
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000485/index.m3u8?IAS
+https://stream1.freetv.fun/ipv6-cctv-04-1.m3u8
 #EXTINF:-1 ,CCTV5
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 ,CCTV13
@@ -23,8 +23,6 @@ https://www.goodiptv.club/douyu/7348194
 http://live.iill.top/douyu.php?id=8144937
 #EXTINF:-1 ,用青春去旅行
 https://www.goodiptv.club/douyu/9629423
-#EXTINF:-1 ,爱旅行的巧克力
-https://www.goodiptv.club/douyu/9653323
 #EXTINF:-1 ,到远方旅行
 https://www.goodiptv.club/douyu/9614588
 #EXTINF:-1 ,凤凰中文
@@ -32,7 +30,7 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 ,中天亚洲台
-http://194.87.101.118/live.m3u8?c=3
+https://stream1.freetv.fun/zhong-tian-zong-he-1.ctv
 #EXTINF:-1 ,斗鱼音乐
 http://epg.112114.xyz/douyu/7537296
 #EXTINF:-1 ,中文电台
