@@ -31,15 +31,19 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 ,中天亚洲台
 https://stream1.freetv.fun/zhong-tian-zong-he-1.ctv
-#EXTINF:-1 ,斗鱼音乐
-http://epg.112114.xyz/douyu/7537296
+#EXTINF:-1 ,CRI Easy FM
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1 ,BBC Radio 1
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
+#EXTINF:-1 ,BBC Radio 2
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
 #EXTINF:-1 ,中文电台
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 #EXTINF:-1 ,动感音乐台
 http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
 #EXTINF:-1 ,格莱美音乐台
 http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
-#EXTINF:-1 ,外语电台
+#EXTINF:-1 ,CRI Hit FM
 http://sk.cri.cn/887.m3u8
 #EXTINF:-1 ,贝爷MAX厅
 http://epg.112114.xyz/douyu/4332
