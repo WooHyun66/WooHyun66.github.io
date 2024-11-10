@@ -14,7 +14,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 ,精品纪录
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 ,求索纪录
-https://stream1.freetv.fun/44c45dcee137e4e5f1a9ffab3fed99382bed4c4dab6937ec642e945621111004.ctv
+http://171.213.206.253:4022/udp/239.93.42.24:5140
 #EXTINF:-1 ,求索动物
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000009
 #EXTINF:-1 ,花花与三猫CatLive
@@ -26,11 +26,11 @@ https://www.goodiptv.club/douyu/9629423
 #EXTINF:-1 ,到远方旅行
 https://www.goodiptv.club/douyu/9614588
 #EXTINF:-1 ,凤凰中文
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 ,中天亚洲台
-https://stream1.freetv.fun/zhong-tian-zong-he-1.ctv
+https://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 #EXTINF:-1 ,CRI Easy FM
 http://sk.cri.cn/915.m3u8
 #EXTINF:-1 ,BBC Radio 1
