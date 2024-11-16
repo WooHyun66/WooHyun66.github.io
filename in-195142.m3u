@@ -23,14 +23,10 @@ https://www.goodiptv.club/douyu/7348194
 http://live.iill.top/douyu.php?id=8144937
 #EXTINF:-1 ,用青春去旅行
 https://www.goodiptv.club/douyu/9629423
-#EXTINF:-1 ,到远方旅行
-https://www.goodiptv.club/douyu/9614588
 #EXTINF:-1 ,凤凰中文
-http://171.38.65.20:8181/tsfile/live/1001_1.m3u8
+http://110.185.240.152:55555/udp/239.93.0.162:2192
 #EXTINF:-1 ,凤凰资讯
-http://171.38.65.20:8181/tsfile/live/1000_1.m3u8
-#EXTINF:-1 ,凤凰香港
-http://171.38.65.20:8181/tsfile/live/1002_1.m3u8
+http://110.185.240.152:55555/udp/239.93.0.118:2191
 #EXTINF:-1 ,中天亚洲台
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 #EXTINF:-1 ,CRI Easy FM
@@ -63,5 +59,3 @@ http://rtmp.one.by:2200/
 http://rtmp.one.by:1300
 #EXTINF:-1 ,Music Channel
 http://rtmp.one.by:2300/
-#EXTINF:-1 ,HBO2
-https://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?$2M3840x2160
