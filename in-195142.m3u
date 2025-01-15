@@ -2,9 +2,9 @@
 #EXTINF:-1 ,小约翰可汗
 https://www.goodiptv.club/douyu/9738854
 #EXTINF:-1 ,CCTV2
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031101/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907
 #EXTINF:-1 ,CCTV3
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
+http://60.167.135.79:8686/rtp/238.1.78.170:7232
 #EXTINF:-1 ,CCTV4
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031102/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
 #EXTINF:-1 ,CCTV5
@@ -23,12 +23,8 @@ http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000008/index.m3u8?s
 http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 ,求索科学 
 http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,花花与三猫CatLive
-https://www.goodiptv.club/douyu/7348194
 #EXTINF:-1 ,美食作家王刚V
 http://live.iill.top/douyu.php?id=8144937
-#EXTINF:-1 ,用青春去旅行
-https://www.goodiptv.club/douyu/9629423
 #EXTINF:-1 ,凤凰中文
 https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 #EXTINF:-1 ,凤凰资讯
@@ -40,7 +36,7 @@ http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 #EXTINF:-1 ,中天亚洲台
 https://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 #EXTINF:-1 ,中天新闻台
-http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+https://ali.hlspull.yximgs.com/live/moa28.flv
 #EXTINF:-1 ,中天新闻台
 https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 ,中天综合台
@@ -61,14 +57,6 @@ http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
 http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 #EXTINF:-1 ,CRI Hit FM
 http://sk.cri.cn/887.m3u8
-#EXTINF:-1 ,贝爷MAX厅
-http://jiaojirentv.top/2020/dy.php?id=4332
-#EXTINF:-1 ,贝爷影厅1
-http://jiaojirentv.top/2020/dy.php?id=252802
-#EXTINF:-1 ,贝爷影厅2
-http://jiaojirentv.top/2020/dy.php?id=36337
-#EXTINF:-1 ,斗鱼4K
-http://159.75.85.63:35455/douyu/9249162
 #EXTINF:-1 ,俄罗斯 First Music
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 ,俄罗斯 OR 音乐频道
