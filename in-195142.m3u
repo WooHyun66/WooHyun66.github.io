@@ -6,7 +6,7 @@ http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=182036
 #EXTINF:-1 ,CCTV3
 http://60.167.135.79:8686/rtp/238.1.78.170:7232
 #EXTINF:-1 ,CCTV4
-http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031102/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
+http://171.213.211.208:8088/udp/239.93.1.105:5140
 #EXTINF:-1 ,CCTV5
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8
 #EXTINF:-1 ,CCTV5+
@@ -36,7 +36,7 @@ http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 #EXTINF:-1 ,中天亚洲台
 https://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 #EXTINF:-1 ,中天新闻台
-https://ali.hlspull.yximgs.com/live/moa28.flv
+http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 #EXTINF:-1 ,中天新闻台
 https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 ,中天综合台
